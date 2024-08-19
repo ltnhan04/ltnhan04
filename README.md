@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <!-- Phần Banner -->
 <div style="background: linear-gradient(90deg, #FF512F 0%, #DD2476 100%); padding: 20px; color: white; text-align: center;">
@@ -145,5 +143,4 @@
 <h3 align="center" style="margin-top: 60px;">💬 Inspirational Quote 💬</h3>
 <p align="center" style="font-style: italic; color: #333;">"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
 
-</body>
-</html>
+
