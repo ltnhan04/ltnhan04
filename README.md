@@ -1,43 +1,42 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Nhan Luong</span></h1>
-<h3 align="center">
-  A <span style="color:#00BFFF;">passionate</span> frontend developer from Viet Nam <br/>
-  <span style="color:#FF6347; font-style: italic;">"Building the future, one line of code at a time."</span>
-</h3>
+# Hi there 👋, I'm **Nhan Luong**  
+### Passionate Frontend Developer from Vietnam 🌍
+
+- 🌟 **Innovating one line of code at a time.**
+- 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**
+- 💬 Ask me about **React, Redux Toolkit**
+- 📫 How to reach me: **luongtunhan2004@gmail.com**
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s" />
+  <img src="https://komarev.com/ghpvc/?username=ltnhan04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Frontend+Enthusiast;Building+Responsive+Websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+dreams+into+reality.;One+pixel+at+a+time." alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ltnhan04&label=Profile%20views&color=0e75b6&style=flat" alt="ltnhan04" />
+  <img alt="Coding" width="100%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 </p>
 
-<h3 align="center">🚀 About Me:</h3>
-- 🌱 I’m currently learning <strong>Next.js, GSAP, Redis </strong> <br/>
-- 💬 Ask me about <strong>React, Redux Toolkit</strong> <br/>
-- 📫 How to reach me **luongtunhan2004@gmail.com**
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
+## 🌐 Connect with Me:
+
+<p align="left">
   <a href="https://fb.com/luong.nhan.351104" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="luong.nhan.351104" />
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
   </a>
   <a href="https://www.leetcode.com/ltnhan_04" target="_blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="ltnhan_04" />
-  </a>
-  <a href="mailto:luongtunhan2004@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
   </a>
 </p>
 
-<h3 align="center">💻 Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+---
+
+## ⚒️ Skills and Tools:
+
+<p align="center">
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -59,7 +58,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" width="40" height="40"/>
   </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -68,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/>
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -78,21 +77,34 @@
   </a> 
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-2945120.png?f=webp" alt="mongodb" width="40" height="40"/>
   </a> 
 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a> 
-
-
-
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&show_icons=true&locale=en&layout=compact" alt="ltnhan04" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ltnhan04&theme=algolia" alt="GitHub Trophies" />
 </p>
 
+---
+
+## 📊 GitHub Stats:
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ltnhan04&show_icons=true&locale=en" alt="ltnhan04" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltnhan04&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltnhan04&theme=radical" alt="GitHub Profile Summary" />
 </p>
+
+
+
+
