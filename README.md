@@ -2,7 +2,7 @@
 ### Passionate Frontend Developer from Vietnam 🌍
 
 - 🌟 **Innovating one line of code at a time.**
-- 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**
+- 🔭 Currently exploring **Next.js, GSAP, Three.js**
 - 💬 Ask me about **React, Redux Toolkit**
 - 📫 How to reach me: **luongtunhan2004@gmail.com**
 
