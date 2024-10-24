@@ -3,7 +3,7 @@
 
 - 🌟 **Innovating one line of code at a time.**
 - 🔭 Currently exploring **Next.js, GSAP, Three.js**
-- 💬 Ask me about **React, Redux Toolkit**
+- 💬 Ask me about **ReactJS, Redux Toolkit**
 - 📫 How to reach me: **luongtunhan2004@gmail.com**
 
 <p align="center">
