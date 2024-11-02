@@ -36,56 +36,54 @@
 ## ⚒️ Skills and Tools:
 
 <p align="center">
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="html5" />
+  </a>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
+    <img src="https://custom-icon-badges.herokuapp.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="css3" />
+  </a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/TailwindCSS-38B2AC.svg?logo=tailwindcss&logoColor=white" alt="tailwind" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="javascript" />
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="typescript" />
+  </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/React-61DAFB.svg?logo=react&logoColor=black" alt="react" />
+  </a>&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" width="40" height="40"/>
-  </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
+    <img src="https://custom-icon-badges.herokuapp.com/badge/ReactNative-61DAFB.svg?logo=react&logoColor=black" alt="reactnative" />
+  </a>&nbsp;
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+      <img src="https://custom-icon-badges.herokuapp.com/badge/Expo-000020.svg?logo=expo&logoColor=white" alt="Expo"/>
+    </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" alt="nextjs" />
+  </a>&nbsp;
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Redux-764ABC.svg?logo=redux&logoColor=white" alt="redux"/>
+  </a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Node.js-339933.svg?logo=node.js&logoColor=white" alt="nodejs"/>
+  </a>&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/>
-  </a> 
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Express-000000.svg?logo=express&logoColor=white" alt="express"/>
+  </a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" alt="figma" />
+  </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Git-F05032.svg?logo=git&logoColor=white" alt="git"/>
+  </a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-2945120.png?f=webp" alt="mongodb" width="40" height="40"/>
-  </a> 
-
+    <img src="https://custom-icon-badges.herokuapp.com/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="postman" />
   </a> 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 </p>
 
 ---
