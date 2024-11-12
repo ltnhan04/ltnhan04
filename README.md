@@ -26,9 +26,9 @@
   <a href="https://fb.com/luong.nhan.351104" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
   </a>
-  <a href="https://www.leetcode.com/ltnhan_04" target="_blank">
+<!--   <a href="https://www.leetcode.com/ltnhan_04" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
-  </a>
+  </a> -->
 </p>
 
 ---
