@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhNmUybzR2OTRlcmRvMHhwMXh4eTNmM3Eycmxkemo4bXluMWEzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="60%" alt="Coding Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhNmUybzR2OTRlcmRvMHhwMXh4eTNmM3Eycmxkemo4bXluMWEzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="Coding Animation" />
 </p>
 
 ---
