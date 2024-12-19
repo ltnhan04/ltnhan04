@@ -1,108 +1,73 @@
-# Hi there 👋, I'm **Nhan Luong**  
-### Passionate Frontend Developer from Vietnam 🌍
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Nhan+Luong!;Frontend+Developer+%7C+Tech+Explorer;Building+amazing+digital+experiences" alt="Typing SVG" />
+</h1>
 
-- 🌟 **Innovating one line of code at a time.**
-- 🔭 Currently exploring **Next.js, GSAP, Three.js**
-- 💬 Ask me about **ReactJS, Redux Toolkit**
-- 📫 How to reach me: **luongtunhan2004@gmail.com**
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhNmUybzR2OTRlcmRvMHhwMXh4eTNmM3Eycmxkemo4bXluMWEzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="65%" alt="Coding Animation" />
+</p>
 
+---
+
+## 🌟 About Me  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ltnhan04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+
+- 🎨 Transforming ideas into **interactive, user-friendly experiences**.  
+- 🔭 Currently exploring **GSAP** and **Three.js** for animations and 3D content.  
+- 💬 Let's talk about **ReactJS**, **Redux Toolkit**, or any **frontend technology**!  
+- 📫 You can always reach me at **luongtunhan2004@gmail.com**.  
+
+---
+
+## 🌐 Let's Connect  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+dreams+into+reality.;One+pixel+at+a+time." alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  <img alt="Coding" width="60%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
-</p>
-
-
-## 🌐 Connect with Me:
-
-<p align="left">
   <a href="https://fb.com/luong.nhan.351104" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" />
   </a>
-<!--   <a href="https://www.leetcode.com/ltnhan_04" target="_blank">
+  <a href="https://leetcode.com/ltnhan_04" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
-  </a> -->
+  </a>
+  <a href="https://www.overleaf.com/project/674fd95f81231e69a21166d2" target="_blank" download="Nhan_Luong_CV">
+    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="CV" />
+  </a>
 </p>
 
 ---
 
-## ⚒️ Skills and Tools:
-
+## 🛠️ Skills & Tools  
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="html5" />
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="css3" />
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/TailwindCSS-38B2AC.svg?logo=tailwindcss&logoColor=white" alt="tailwind" />
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="javascript" />
-  </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="typescript" />
-  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/React-61DAFB.svg?logo=react&logoColor=black" alt="react" />
-  </a>&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/ReactNative-61DAFB.svg?logo=react&logoColor=black" alt="reactnative" />
-  </a>&nbsp;
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-      <img src="https://custom-icon-badges.herokuapp.com/badge/Expo-000020.svg?logo=expo&logoColor=white" alt="Expo"/>
-    </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" alt="nextjs" />
-  </a>&nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/Redux-764ABC.svg?logo=redux&logoColor=white" alt="redux"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/Node.js-339933.svg?logo=node.js&logoColor=white" alt="nodejs"/>
-  </a>&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/Express-000000.svg?logo=express&logoColor=white" alt="express"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white" alt="figma" />
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/Git-F05032.svg?logo=git&logoColor=white" alt="git"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" alt="mongodb" />
-  </a>&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" alt="postman" />
-  </a> 
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwindcss,redux,next,nodejs,express,prisma,mongodb,redis,firebase,git,github,postman,figma,vercel,vite" alt="Skills" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltnhan04&layout=compact&theme=radical" alt="Most Used Languages" />
+
+</p>
+
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ltnhan04&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ltnhan04&theme=algolia" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
+## 📊 GitHub Stats  
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltnhan04&theme=radical" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltnhan04&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+---
+
+## ✨ Fun Fact  
+> "Coding is a superpower — turning caffeine and creativity into amazing digital experiences."
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3cjBjb3NuOThnZmE2dGVkYm90a2Ywbzl4MTIyY2xxZDJpc2drbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="Rocket" />
 </p>
 
-
-
+---
 
