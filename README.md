@@ -1,9 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Nhan+Luong!;Frontend+Developer+%7C+Tech+Explorer;Building+amazing+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Nhan+Luong!;Software+Developer+%7C+Tech+Explorer;Building+amazing+digital+experiences;Turning+ideas+into+reality+with+code" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhNmUybzR2OTRlcmRvMHhwMXh4eTNmM3Eycmxkemo4bXluMWEzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="65%" alt="Coding Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhNmUybzR2OTRlcmRvMHhwMXh4eTNmM3Eycmxkemo4bXluMWEzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="60%" alt="Coding Animation" />
 </p>
 
 ---
@@ -13,11 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=ltnhan04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
-- 🎨 Transforming ideas into **interactive, user-friendly experiences**.  
+- 🎯 My goal is to become a skilled **Software Developer** who builds innovative and impactful solutions.  
 - 🔭 Currently exploring **GSAP** and **Three.js** for animations and 3D content.  
 - 💬 Let's talk about **ReactJS**, **Redux Toolkit**, or any **frontend technology**!  
-- 📫 You can always reach me at **luongtunhan2004@gmail.com**.  
+- 📫 You can always reach me at **luongtunhan2004@gmail.com**.
 
 ---
 
