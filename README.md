@@ -29,7 +29,7 @@
   <a href="https://leetcode.com/ltnhan_04" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
   </a>
-  <a href="https://www.overleaf.com/project/674fd95f81231e69a21166d2" target="_blank" download="Nhan_Luong_CV">
+  <a href="https://i-tribe.vercel.app/contact" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="CV" />
   </a>
 </p>
