@@ -1,60 +1,64 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Nhan+Luong!;Software+Developer+%7C+Tech+Explorer;Building+amazing+digital+experiences;Turning+ideas+into+reality+with+code" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there 👋, I'm Nhan Luong</h1>
 
+## 👨‍💻 About Me
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUzdTg1dGY4anJuNTY1YmZoanU5ZzNuZWd3N20xejNyZHE4ZDgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Coding Animation" align="right" width="150px" />
+
+- 💻 Final-year **Software Engineering** student at HUFLIT, with a drive to create real-world digital products.
+- 🛠️ I build **end-to-end applications**, from designing intuitive UIs with React/Next.js to implementing robust APIs and database systems.
+- 🧠 Currently focused on **full-stack development** and diving deep into practical **AI/LLM applications**.
+
+<br clear="both"/>
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
-  <img  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFhNmUybzR2OTRlcmRvMHhwMXh4eTNmM3Eycmxkemo4bXluMWEzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="Coding Animation" />
+  <a href="mailto:luongtunhan2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/ltnhan_04" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Let's Connect
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ltnhan04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <p>📫 You can always reach me at <strong>luongtunhan2004@gmail.com</strong>.</p>
-  <p>
-    <a href="https://fb.com/luong.nhan.351104" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" />
-    </a>
-    <a href="https://leetcode.com/ltnhan_04" target="_blank">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
-    </a>
-  </p>
-</div>
+## 🚀 My Tech Stack
 
+<h4 align="center">Languages</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,py,cs" alt="Languages"/></a>
+</p>
+
+<h4 align="center">Frontend Development</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwindcss,figma" alt="Frontend"/></a>
+</p>
+
+<h4 align="center">Backend & Databases</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,mongodb,redis,postgres" alt="Backend"/></a>
+</p>
+
+<h4 align="center">Cloud, DevOps & Tools</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,bash,firebase,git,postman,androidstudio,ubuntu" alt="Tools"/></a>
+</p>
 ---
 
-## 🛠️ Skills & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwindcss,redux,next,nodejs,express,prisma,mongodb,redis,firebase,git,github,postman,figma,vercel,vite" alt="Skills" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltnhan04&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
+## 📊 My GitHub Stats & Activity
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ltnhan04&show_icons=true&locale=en&theme=radical" alt="ltnhan04's GitHub stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ltnhan04&theme=radical" alt="ltnhan04's GitHub streak" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&layout=compact&theme=radical" alt="ltnhan04's top languages" />
+</p>
 
 ---
-
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ltnhan04&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltnhan04&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltnhan04&theme=radical" alt="GitHub Profile Summary" />
-</div>
-
----
-
-## ✨ Fun Fact
-<div align="center">
-  <blockquote>
-    "Coding is a superpower — turning caffeine and creativity into amazing digital experiences."
-  </blockquote>
-  <p>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3cjBjb3NuOThnZmE2dGVkYm90a2Ywbzl4MTIyY2xxZDJpc2drbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="Rocket" />
-  </p>
-</div>
