@@ -4,8 +4,8 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUzdTg1dGY4anJuNTY1YmZoanU5ZzNuZWd3N20xejNyZHE4ZDgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Coding Animation" align="right" width="150px" />
 
-- 💻 Final-year **Software Engineering** student at HUFLIT, with a drive to create real-world digital products.
-- 🛠️ I build **end-to-end applications**, from designing intuitive UIs with React/Next.js to implementing robust APIs and database systems.
+- 🐝 Final-year **Software Engineering** student at HUFLIT, with a drive to create real-world digital products.
+- 👾 I build **end-to-end applications**, from designing intuitive UIs with React/Next.js to implementing robust APIs and database systems.
 - 🧠 Currently focused on **full-stack development** and diving deep into practical **AI/LLM applications**.
 
 <br clear="both"/>
@@ -29,22 +29,37 @@
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 My Tech Stack & Languages
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h4 align="center">Languages & Frontend</h4>
+    <td align="center" width="45%" valign="top">
+      <h4 align="center">Languages I Use Most</h4>
       <p align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,py,cs,react,nextjs,redux,tailwindcss,figma" alt="Languages & Frontend"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="ltnhan04's top languages" />
+        </a>
       </p>
     </td>
-    <td align="center" width="50%">
-      <h4 align="center">Backend & Tools</h4>
-      <p align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,mongodb,postgres,docker,githubactions,nginx,git,postman" alt="Backend & DevOps"/></a>
-      </p>
-    </td>
+
+<td align="center" width="55%" valign="top">
+<h4 align="center">Frameworks, Libraries & Tools</h4>
+
+<p align="center">
+<strong>Frontend:</strong><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwindcss,figma" alt="Frontend"/></a>
+</p>
+
+<p align="center">
+<strong>Backend & Databases:</strong><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,mongodb,postgres,redis" alt="Backend"/></a>
+</p>
+
+<p align="center">
+<strong>Tools:</strong><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,git,postman,bash,ubuntu" alt="Tools"/></a>
+</p>
+</td>
   </tr>
 </table>
 
@@ -55,9 +70,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ltnhan04&show_icons=true&locale=en&theme=radical" alt="ltnhan04's GitHub stats" width="49%"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ltnhan04&theme=radical" alt="ltnhan04's GitHub streak" width="49%" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ltnhan04&layout=compact&theme=radical" alt="ltnhan04's top languages"/>
 </p>
 
 ---
