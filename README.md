@@ -40,7 +40,7 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <h4 align="center">Backend, DevOps & Tools</h4>
+      <h4 align="center">Backend & Tools</h4>
       <p align="center">
         <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,mongodb,postgres,docker,githubactions,nginx,git,postman" alt="Backend & DevOps"/></a>
       </p>
